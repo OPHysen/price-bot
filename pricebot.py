@@ -28,3 +28,4 @@ class search_item:
         for x,y in output:
             print(f"{x} : {y}")
         
+search_item.bul()
